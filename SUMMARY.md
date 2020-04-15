@@ -124,7 +124,7 @@
 
 * [InfoSec Notes](ldnotes/infosec-notes/README.md)
   * [Client-Side Exploitation](ldnotes/infosec-notes/untitled-2.md)
-  * [Untitled](ldnotes/infosec-notes/untitled-3.md)
+  * [Metasploit](ldnotes/infosec-notes/untitled-3.md)
   * [Log Analysis](ldnotes/infosec-notes/untitled-4.md)
   * [Web Exploitation](ldnotes/infosec-notes/untitled-5.md)
   * [Attacking Remote Access](ldnotes/infosec-notes/untitled-6.md)
