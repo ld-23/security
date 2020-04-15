@@ -109,5 +109,12 @@
   * [WPS](wifi/wps.md)
 * [Physical access to machine](physical_access_to_machine.md)
 * [Literature](littearature.md)
-* [CTF Notes](ctf-notes.md)
+* [CTF Notes](ctf-notes/README.md)
+  * [Web Application Exploitation](ctf-notes/web-application-exploitation.md)
+  * [Password Cracking](ctf-notes/password-cracking.md)
+  * [Log Analysis](ctf-notes/log-analysis.md)
+  * [Network Analysis](ctf-notes/network-analysis.md)
+  * [Steganography](ctf-notes/steganography.md)
+  * [Reverse Engineering](ctf-notes/reverse-engineering/README.md)
+    * [Ghidra](ctf-notes/reverse-engineering/ghidra.md)
 
