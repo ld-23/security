@@ -110,6 +110,8 @@
 * [Physical access to machine](physical_access_to_machine.md)
 * [Literature](littearature.md)
 * [CTF Notes](ctf-notes/README.md)
+  * [OSINT](ctf-notes/untitled.md)
+  * [Recon and Scanning](ctf-notes/scanning.md)
   * [Web Application Exploitation](ctf-notes/web-application-exploitation.md)
   * [Password Cracking](ctf-notes/password-cracking.md)
   * [Log Analysis](ctf-notes/log-analysis.md)
@@ -117,4 +119,15 @@
   * [Steganography](ctf-notes/steganography.md)
   * [Reverse Engineering](ctf-notes/reverse-engineering/README.md)
     * [Ghidra](ctf-notes/reverse-engineering/ghidra.md)
+
+## ldNotes
+
+* [InfoSec Notes](ldnotes/infosec-notes/README.md)
+  * [Client-Side Exploitation](ldnotes/infosec-notes/untitled-2.md)
+  * [Untitled](ldnotes/infosec-notes/untitled-3.md)
+  * [Log Analysis](ldnotes/infosec-notes/untitled-4.md)
+  * [Web Exploitation](ldnotes/infosec-notes/untitled-5.md)
+  * [Attacking Remote Access](ldnotes/infosec-notes/untitled-6.md)
+  * [Physical Security and Social Engineering](ldnotes/infosec-notes/physical-security-and-social-engineering.md)
+  * [Wireless Attacks](ldnotes/infosec-notes/untitled.md)
 
