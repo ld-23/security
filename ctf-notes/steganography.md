@@ -13,7 +13,7 @@
 * binwalk file : Displays the embedded data in the given file
 * binwalk -e file : Displays and extracts the data from the given file
 * binwalk --dd='jpeg:jpg' file.jpg 
-* binwalk --dd='.\*' file 
+* binwalk --dd='.\*' file \( force extract specific file type\)
 * binwalk -B ==&gt; look into specifying png specifically
 
 ### exiftool

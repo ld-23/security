@@ -14,3 +14,26 @@
 
 CAINE use tool - log2timeline
 
+#### Remove White Space
+
+$ man tr  
+
+
+In order to wipe all whitespace including newlines you can try:
+
+```text
+cat file.txt | tr -d " \t\n\r" 
+```
+
+You can also use the character classes defined by tr \(credits to [htompkins](https://stackoverflow.com/users/315868/htompkins) comment\):
+
+```text
+cat file.txt | tr -d "[:space:]"
+```
+
+For example, in order to wipe just horizontal white space:
+
+```text
+cat file.txt | tr -d "[:blank:]"
+```
+
