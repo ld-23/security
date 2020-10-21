@@ -129,4 +129,5 @@
   * [Attacking Remote Access](ldnotes/infosec-notes/untitled-6.md)
   * [Physical Security and Social Engineering](ldnotes/infosec-notes/physical-security-and-social-engineering.md)
   * [Wireless Attacks](ldnotes/infosec-notes/untitled.md)
+  * [Reverse Engineering](ldnotes/infosec-notes/reverse-engineering.md)
 
