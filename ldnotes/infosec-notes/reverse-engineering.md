@@ -22,7 +22,7 @@ execute program with `strace` or `ltrace`
 
 ## GDB + pwndbg
 
-### Common Binary Info
+### Common Binary Terminology
 
 `cmp` = compare  
 `jne`= jump not equal  
